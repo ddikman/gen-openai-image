@@ -1,10 +1,14 @@
 {
   "name": "gen-openai-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate images locally using a command line access to OpenAIs DALL-E",
   "author": {
     "name": "David Dikman",
     "email": "david@greycastle.se"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ddikman/gen-openai-image.git"
   },
   "main": "index.js",
   "scripts": {
