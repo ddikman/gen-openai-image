@@ -7,7 +7,8 @@ Although a CURL might've been able to do it, I ended up packaging it in this sma
 ## Usage
 
 ```bash
-gen-image --variations 1 --output test --size 256 --prompt "A worm eating an apple"
+export OPENAI_API_KEY=your-key
+gen-openai-image --variations 1 --output test --size 256 --prompt "A worm eating an apple"
 ```
 
 Note you can actually use this with npx and don't have to mess much.
