@@ -11,7 +11,11 @@ export OPENAI_API_KEY=your-key
 gen-openai-image --variations 1 --output test --size 256 --prompt "A worm eating an apple"
 ```
 
-Note you can actually use this with npx and don't have to mess much.
+Or, use npx to call the latest published version of this cli:
+
+```bash
+npx gen-openai-image --prompt "A woodchipper spitting out png files" --key "your api key"
+```
 
 
 ## Building locally
