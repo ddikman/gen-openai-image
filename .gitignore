@@ -1,0 +1,9 @@
+# environment settings
+.env
+
+# node stuff
+node_modules/
+
+# temporaries and outputs
+.png
+.DS_Store
