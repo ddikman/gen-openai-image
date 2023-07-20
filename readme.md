@@ -1,4 +1,4 @@
-# OpenAPI DALL-E image generator CLI
+# OpenAI DALL-E image generator CLI
 
 I wanted to generate a bunch of images given prompts in an easy way.
 

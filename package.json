@@ -1,7 +1,7 @@
 {
-  "name": "gen-openapi-image",
+  "name": "gen-openai-image",
   "version": "1.0.0",
-  "description": "Generate images locally using a command line access to OpenAPIs DALL-E",
+  "description": "Generate images locally using a command line access to OpenAIs DALL-E",
   "author": {
     "name": "David Dikman",
     "email": "david@greycastle.se"
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "gen-openapi-image": "bin/gen-image.js"
+    "gen-openai-image": "bin/gen-image.js"
   },
   "license": "ISC",
   "devDependencies": {
